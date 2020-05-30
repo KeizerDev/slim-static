@@ -1,5 +1,5 @@
 {
-    "name": "statical/slim-static",
+    "name": "keizerdev/slim-static",
     "description": "Static proxy implementation for Slim framework",
     "keywords": ["slim", "statical", "facade", "static proxy"],
     "homepage": "http://github.com/johnstevenson/slim-static",
