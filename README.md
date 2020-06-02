@@ -1,5 +1,7 @@
 # SlimStatic
 
+**This is a working fork with a new package for composer**
+
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/johnstevenson/slim-static/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/johnstevenson/slim-static/?branch=master)
 [![Build Status](https://travis-ci.org/johnstevenson/slim-static.svg?branch=master)](https://travis-ci.org/johnstevenson/slim-static)
 
@@ -51,7 +53,7 @@ This library is based on [Slim-Facades][slim-facades] from Miroslav Rigler, but 
 Install via [composer][composer]
 
 ```
-composer require statical/slim-static
+composer require keizerdev/slim-static
 ```
 
 Create your Slim app and boot SlimStatic:
